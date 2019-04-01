@@ -5,6 +5,7 @@ R script (`MSCC.R`) that assigns one of the compounds considered in the MSCC con
 to a series of elements and elemental stoichiometry ratios.
 
 ## Publication Information ##
+
 Albert Rivas-Ubach, Yina Liu, Thomas S. Bianchi, Nikola Tolić, Christer Jansson, Ljiljana Paša-Tolić. (2018).\
 "Moving beyond the van Krevelen diagram: A new stoichiometric approach for compound classification in organisms."\
 Analytical Chemsitry. DOI: 10.1021/acs.analchem.8b00529
@@ -67,3 +68,17 @@ The R code performs 3 main steps:
 3.	Finally, it can also perform a pie-chart plot the different calculated proportions.
 
 The only information that has to be inserted in the R code is the directory path to read the CSV file and the directory paths to save the output tables.
+
+## Contacts
+
+Written by Nikola Tolić for the Department of Energy (PNNL, Richland, WA) \
+E-mail: proteomics@pnnl.gov \
+Website: https://omics.pnl.gov/ or https://panomics.pnnl.gov/
+
+## License
+
+MSCC is licensed under the 2-Clause BSD License; 
+you may not use this file except in compliance with the License.  You may obtain 
+a copy of the License at https://opensource.org/licenses/BSD-2-Clause
+
+Copyright 2018 Battelle Memorial Institute
